@@ -2,12 +2,18 @@
 
 ***
 # The project
-Our project is to link a microprocessor to an FPGA
+Our project is to read info from a captor using I2C protocol on a FPGA.
 [...]
 
 ## Pre-requisite
 Main :
+- I2C_Com.vi
+
 Under Vi :
+- I2C start.vi
+- I2C_read.vi
+- I2C_write.vi
+- I2C_end.vi
 
 ### Startup
 
